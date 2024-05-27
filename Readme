@@ -1,6 +1,6 @@
-1 - Run Command "terraform init" commad
+1 - Run Command "terraform init" initializes a working directory containing
 
-2 - Run command "terraform plan" after write you script
+2 - Run command "terraform plan" reates an execution plan, which lets you preview the changes that Terraform plans to make to your infrastructure
 
-3 - Run command "terrafrom apply" to create Ec2 instance_type
+3 - Run command "terrafrom apply" executes the actions proposed in a Terraform plan.
 
