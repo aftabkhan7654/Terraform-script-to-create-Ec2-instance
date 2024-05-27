@@ -1,0 +1,6 @@
+1 - Run Command "terraform init" commad
+
+2 - Run command "terraform plan" after write you script
+
+3 - Run command "terrafrom apply" to create Ec2 instance_type
+
