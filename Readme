@@ -1,3 +1,5 @@
+This Script is used to create a Ec2 Instance
+
 1 - Run Command "terraform init" initializes a working directory containing
 
 2 - Run command "terraform plan" reates an execution plan, which lets you preview the changes that Terraform plans to make to your infrastructure
